@@ -1,0 +1,1 @@
+Extra credit is complete, the change in brightness is much more obviously visible in green light.
